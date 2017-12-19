@@ -7,7 +7,8 @@ the simultaneous pulling of data (complete address) from google and redirecting
 that to dark sky (hyperlocal weather website) in order to retrieve and convert
 information into real world, accessible current weather data.
 
-Once you have downloaded this project, use a command prompt to navigate to this folder.
+Once you have downloaded this project, move the folder into your desktop. Then
+use a command prompt to navigate to this folder.
 You will have to use the command "npm install" in order to install yargs. Then call the
 app file with the following command - "node app.js" followed by "-a" to call the address
 function. Directly after this, type in the zipcode of the location that you are seeking
